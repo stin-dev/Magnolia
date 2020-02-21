@@ -1,0 +1,79 @@
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#page {
+    background-color: #010005;
+    width: 100%;
+    color: white;
+    font-family: 'Quattrocento', serif;
+    line-height: 1.6;
+}
+
+#container {
+    max-width: 900px;
+    min-height: 100vh;
+    margin: auto;
+}
+
+.link-button {
+    display: inline-block;
+    width: 200px;
+    height: 45px;
+    line-height: 45px;
+    border: solid 1px;
+    text-decoration: none;
+    text-align: center;
+    margin: 10px;
+    border-radius: 2px;
+    transition: 0.2s;
+    color: rgba(233, 121, 255, 0.7);
+}
+
+.link-button-hirose {
+    color: #00afcc;
+}
+
+.link-button-hirose:hover {
+    color: white;
+    background-color: #00afcc;
+}
+
+.link-button-nomura {
+    color: #2c5ae6;
+}
+
+.link-button-nomura:hover {
+    color: white;
+    background-color: #2c5ae6;
+}
+
+.link-button-hamaura {
+    color: #fd349f;
+}
+
+.link-button-hamaura:hover {
+    color: white;
+    background-color: #fd349f;
+}
+
+.link-button-wada {
+    color: #008000;
+}
+
+.link-button-wada:hover {
+    color: white;
+    background-color: #008000;
+}
+
+.link-button-inoue {
+    color: #7f1184;
+}
+
+.link-button-inoue:hover {
+    color: white;
+    background-color: #7f1184;
+}

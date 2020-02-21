@@ -65,6 +65,10 @@ footer .over-wrap h1 {
     font-size: 65px;
 }
 
+.link-button {
+    margin: 40px 0;
+}
+
 @media (max-width: 750px) {
     header .over-wrap h1 {
         padding-bottom: 80px;
@@ -84,5 +88,8 @@ footer .over-wrap h1 {
     footer .over-wrap h1 {
         padding-top: 31px;
         font-size: 25px;
+    }
+    .link-button {
+        margin: 30px 0;
     }
 }

@@ -9,7 +9,6 @@
     background-color: #010005;
     width: 100%;
     color: white;
-    font-family: 'Quattrocento', serif;
     line-height: 1.6;
 }
 
@@ -75,4 +74,29 @@
 .link-button-inoue:hover {
     color: white;
     background-color: #7f1184;
+}
+
+.notosansJP {
+    font-family: 'Noto Sans JP';
+}
+
+.notoserifJP {
+    font-family: 'Noto Serif JP';
+}
+
+.dear-member {
+    padding: 20px;
+    font-size: 22px;
+}
+
+.messages {
+    padding: 40px;
+}
+
+.message {
+    margin-bottom: 15px;
+}
+
+.signeture {
+    text-align: right;
 }
